@@ -10,11 +10,11 @@ https://wiki.jasig.org/display/CASC/CAS+Client+for+Java+3.1
 
 ## Order of Required Filters
 
-    1. SingleLogOutFilter (if you're using it)
-    2. AuthenticationFilter
-    3. TicketValidationFilter (whichever one is chosen)
-    4. HttpServletRequestWrapperFilter
-    5. AssertionThreadLocalFilter
+1. SingleLogOutFilter (if you're using it)
+2. AuthenticationFilter
+3. TicketValidationFilter (whichever one is chosen)
+4. HttpServletRequestWrapperFilter
+5. AssertionThreadLocalFilter
 
 ## CAS Server
 
