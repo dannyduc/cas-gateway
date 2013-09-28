@@ -21,6 +21,7 @@ https://wiki.jasig.org/display/CASC/CAS+Client+for+Java+3.1
 https://apps-stable.ingenuity.com/ingsso
 
 https://apps-stable.ingenuity.com/ingsso/login
+
 https://apps-stable.ingenuity.com/logout
 
 ## Service Provider
