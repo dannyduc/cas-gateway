@@ -2,11 +2,11 @@
 
 ## Gateway Overview
 
-    http://www.jasig.org/cas/client-integration/gateway
+http://www.jasig.org/cas/client-integration/gateway
 
 ## Setup
 
-    https://wiki.jasig.org/display/CASC/CAS+Client+for+Java+3.1
+https://wiki.jasig.org/display/CASC/CAS+Client+for+Java+3.1
 
 ## Order of Required Filters
 
@@ -18,13 +18,13 @@
 
 ## CAS Server
 
-    https://apps-stable.ingenuity.com/ingsso
+https://apps-stable.ingenuity.com/ingsso
 
-    https://apps-stable.ingenuity.com/ingsso/login
-    https://apps-stable.ingenuity.com/logout
+https://apps-stable.ingenuity.com/ingsso/login
+https://apps-stable.ingenuity.com/logout
 
 ## Service Provider
 
-    http://localhost:8080/index.jsp
+http://localhost:8080/index.jsp
 
 
